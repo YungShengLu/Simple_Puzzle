@@ -1,0 +1,10 @@
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Resource1.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\陸勇盛\documents\visual studio 2013\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Main.resources
